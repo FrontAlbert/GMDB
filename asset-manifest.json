@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/FrontAlbert/GMDB/static/js/main.7aa6c1ca.chunk.js",
+    "main.js.map": "/FrontAlbert/GMDB/static/js/main.7aa6c1ca.chunk.js.map",
+    "runtime-main.js": "/FrontAlbert/GMDB/static/js/runtime-main.9d2cfd49.js",
+    "runtime-main.js.map": "/FrontAlbert/GMDB/static/js/runtime-main.9d2cfd49.js.map",
+    "static/js/2.9bf328f8.chunk.js": "/FrontAlbert/GMDB/static/js/2.9bf328f8.chunk.js",
+    "static/js/2.9bf328f8.chunk.js.map": "/FrontAlbert/GMDB/static/js/2.9bf328f8.chunk.js.map",
+    "static/js/3.beb39edc.chunk.js": "/FrontAlbert/GMDB/static/js/3.beb39edc.chunk.js",
+    "static/js/3.beb39edc.chunk.js.map": "/FrontAlbert/GMDB/static/js/3.beb39edc.chunk.js.map",
+    "index.html": "/FrontAlbert/GMDB/index.html",
+    "static/js/2.9bf328f8.chunk.js.LICENSE.txt": "/FrontAlbert/GMDB/static/js/2.9bf328f8.chunk.js.LICENSE.txt",
+    "static/media/apple.5757c37e.svg": "/FrontAlbert/GMDB/static/media/apple.5757c37e.svg",
+    "static/media/gamepad.c9269ef5.svg": "/FrontAlbert/GMDB/static/media/gamepad.c9269ef5.svg",
+    "static/media/logo.9b6b8655.svg": "/FrontAlbert/GMDB/static/media/logo.9b6b8655.svg",
+    "static/media/nintendo.f579be04.svg": "/FrontAlbert/GMDB/static/media/nintendo.f579be04.svg",
+    "static/media/playstation.18cc4b9c.svg": "/FrontAlbert/GMDB/static/media/playstation.18cc4b9c.svg",
+    "static/media/steam.d7b8819f.svg": "/FrontAlbert/GMDB/static/media/steam.d7b8819f.svg",
+    "static/media/xbox.3e7db735.svg": "/FrontAlbert/GMDB/static/media/xbox.3e7db735.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d2cfd49.js",
+    "static/js/2.9bf328f8.chunk.js",
+    "static/js/main.7aa6c1ca.chunk.js"
+  ]
+}
